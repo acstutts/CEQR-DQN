@@ -12,9 +12,9 @@ Requirements can be found in the requirements.txt file. For instructions on how 
 
 ## Citation
 
-  @article{stutts2024echoes,
+    @article{stutts2024echoes,
       title={Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning}, 
       author={Alex Christopher Stutts and Danilo Erricolo and Theja Tulabandhula and Amit Ranjan Trivedi},
       journal={arXiv preprint arXiv:2402.07107},
       year={2024}
-  }
+    }
